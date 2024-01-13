@@ -6,4 +6,3 @@ this is written in c#/.net  with the ImGUI.NET library
 THIS SHOULD WORK WITH AMD / NVIDIA GPU, intel can probably be added easily, but i am lazy and didnt add it.
 
 
-![Screenshot](screenshot1.png)
