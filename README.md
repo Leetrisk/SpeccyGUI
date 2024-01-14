@@ -3,7 +3,7 @@ This is simply a dumbed down version of speccy that gives the basic and importan
 
 this is written in c#/.net  with the ImGUI.NET library
 
-THIS SHOULD WORK WITH AMD / NVIDIA GPU, intel can probably be added easily, but i am lazy and didnt add it.
+<sub> THIS SHOULD WORK WITH AMD / NVIDIA GPU, intel can probably be added easily, but i am lazy and didnt add it. </sub>
 
 **THIS USES THE FOLLOWING LIBRARIES TO HELP ACHIEVE ITS FUNCTIONALITY:**
 
