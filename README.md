@@ -5,7 +5,7 @@ this is written in c#/.net  with the ImGUI.NET library
 
 THIS SHOULD WORK WITH AMD / NVIDIA GPU, intel can probably be added easily, but i am lazy and didnt add it.
 
-THIS USES THE FOLLOWING LIBRARIES TO HELP ACHIEVE ITS FUNCTIONALITY:
+**THIS USES THE FOLLOWING LIBRARIES TO HELP ACHIEVE ITS FUNCTIONALITY:**
 
 - ClickableTransparentOverlay & ImGUI.Net (for the menu/overlay)
 - Fody / Costura Fody (to pack the libraries & packages inside the .exe and keep it clean)
