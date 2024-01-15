@@ -12,7 +12,10 @@ this is written in c#/.net  with the ImGUI.NET library
 - LibreHardwareMonitor & SharpDX / SharpDX.DXGI (to retreive some values about the hardware)
 - Newtonsoft.JSON (for handling config file / JSON deserializing)
 
-$${\color{red}Currently \space the \space space \space the \space UI \space is \space rendered \space in \space is \space grabbed \space from \space primary \space screen \space (this \space is \space also \space whats \space reflected \space as \space 'primary \space monitor \space resolution' \space on \space the \space UI, \space because \space of \space this \space it \space may \space have \space problems \space with \space multiple \space monitors- \space specifically, \space you \space may \space not \space be \space able \space to \space move \space the \space UI \space outsize \space the \space zone \space of \space the \space main \space monitor, \space i \space do \space not \space care \space to \space fix \space this \space problem, \space u \space can \space change \space it \space with \space the \space source.rar \space above \space if \space you \space know \space what \space you \space are \space doing}$$
+> [!warning]  
+> Currently the space the UI is rendered in is grabbed from primary screen
+> (this is also whats reflected as 'primary monitor resolution' on the UI)
+>  because of this it may have problems with multiple monitors- specifically, you may not be able to move the UI outsize the zone of the main monitor, i do not care to fix this problem, u can change it with the source.rar above if you know what you are doing
 
 
 ![Screenshot](screenshot2.png)
